@@ -13,5 +13,9 @@
   },
   "devDependencies": {
     "tape": "*"
+  },
+  "repository": {
+    "url": "https://github.com/garylocke/right-pad.git",
+    "type": "git"
   }
 }
