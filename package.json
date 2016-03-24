@@ -1,0 +1,17 @@
+{
+  "name": "right-pad",
+  "version": "1.0.0",
+  "description": "String right pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Gary Locke",
+  "license": "WTFPL",
+  "dependencies": {
+    "left-pad": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "*"
+  }
+}
