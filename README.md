@@ -2,6 +2,12 @@
 
 String right pad (inverse of the popular [left-pad](https://github.com/camwest/left-pad) package).
 
+## Install
+
+```bash
+$ npm install @garylocke/right-pad
+```
+
 ## Usage
 
 ```js
