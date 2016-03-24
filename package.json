@@ -1,5 +1,5 @@
 {
-  "name": "right-pad",
+  "name": "@garylocke/right-pad",
   "version": "1.0.0",
   "description": "String right pad",
   "main": "index.js",
