@@ -11,7 +11,7 @@ $ npm install @garylocke/right-pad
 ## Usage
 
 ```js
-rightpad = require('right-pad')
+rightpad = require('@garylocke/right-pad')
 
 rightpad('foo', 5)
 // => "foo  "
